@@ -1,4 +1,8 @@
 ## EXP NO:1 C PROGRAM FOR ARRAY OF STRUCTURE TO CHECK ELIGIBILITY FOR THE VACCINE.
+```
+Name : Mukesh R
+Reg No : 212224240098
+```
 
 ### Aim:
 To write a C program for array of structure to check eligibility for the vaccine person age above 6 years of age.
@@ -62,7 +66,7 @@ To write a C program for passing structure as function and returning a structure
 7.	Return 0
  
 ### Program:
-~~~
+~~~c
 #include<stdio.h>
 struct numbers
 {
@@ -117,7 +121,7 @@ Use scanf to input the file name into the name array.
 5.	Return 0 to indicate successful program execution.
  
 ### Program:
-~~~
+~~~c
 #include <stdio.h>
 
 int main()
@@ -177,7 +181,7 @@ Use scanf to input the file name into the name array and the number of strings i
 5.	Return 0 to indicate successful program execution.
  
 ### Program:
-~~~
+~~~c
 #include <stdio.h>
 int main()
 {
@@ -243,7 +247,7 @@ The aim of this program is to dynamically allocate memory to store information a
 13.End the program by returning 0.
 
 ### Program:
-~~~
+~~~c
 #include <stdio.h>
 #include <stdlib.h>
 struct Subject
